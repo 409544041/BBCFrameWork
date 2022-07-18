@@ -1,0 +1,2 @@
+1 上方AutoSpriteAtlas/自动构建图集按钮，可以对Assets/AddressableAssets/Atlas目录下的全部png文件进行图集构建。
+2 对Atlas下的目录右键点击->Create->AutoSpriteAtlas，可以自动构建选中目录的图集
